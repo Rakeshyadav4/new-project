@@ -1,0 +1,29 @@
+n=int(input('Enter number\n'))
+
+print(f'{n} X 1 = {n*1}')
+print(f'{n} X 2 = {n*2}')
+print(f'{n} X 3 = {n*3}')
+print(f'{n} X 4 = {n*4}')
+print(f'{n} X 5 = {n*5}')
+print(f'{n} X 6 = {n*6}')
+print(f'{n} X 7 = {n*7}')
+print(f'{n} X 8 = {n*8}')
+print(f'{n} X 9 = {n*9}')
+print(f'{n} X 10 = {n*10}')
+
+
+OUTPUT
+Enter number
+23
+23 X 1 = 23
+23 X 2 = 46
+23 X 3 = 69
+23 X 4 = 92
+23 X 5 = 115
+23 X 6 = 138
+23 X 7 = 161
+23 X 8 = 184
+23 X 9 = 207
+23 X 10 = 230
+
+Process finished with exit code 0
